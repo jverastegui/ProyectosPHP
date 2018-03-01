@@ -6,7 +6,7 @@
     <title>BD8800022221993</title>
     <meta name="viewport23" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-    <script src="main.js"></script>
+    <script src="main.jsh2"></script>
 </head>
 <body>
     
